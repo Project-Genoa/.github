@@ -14,10 +14,10 @@ We a group of dedicated Minecraft: Earth fans who are trying to recreate the ser
 We are currently attempting to reverse-engineer the existing Project Earth API so that we can recreate it in JS for a simpler and easier to maintain codebase
 
 ## Current progress
-- [ ] Create Project Earth Setup Utility
-- [ ] Reverse engineer Project Earth API via mitmproxy
-  - [ ] Create API documenation
-  - [ ] Create JS replacement API
+- [x] Create Project Earth Setup Utility
+- [x] Reverse engineer Project Earth API via mitmproxy
+  - [x] Create API documenation (somewhat done)
+  - [ ] Create JS replacement API (in progress)
 - [ ] Reverse engineer Project Earth Cloudburst Protocol via custom MC proxy
   - [ ] Create Protocol Documentation
   - [ ] Create JS proof of concept via Prismarine-JS
