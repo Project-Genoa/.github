@@ -12,13 +12,7 @@
 We a group of dedicated Minecraft: Earth fans who are trying to recreate the server so that you can still play MCE even post-sunset
 
 ## What are we doing
-We are currently attempting to reverse-engineer the existing Project Earth API so that we can recreate it in JS for a simpler and easier to maintain codebase
+We are currently attempting to create a Node.JS Earth API Server to allow players to play it even after sunset
 
 ## Current progress
-- [x] Create Project Earth Setup Utility
-- [x] Reverse engineer Project Earth API via mitmproxy
-  - [x] Create API documenation (somewhat done)
-  - [ ] Create JS replacement API (in progress)
-- [ ] Reverse engineer Project Earth Cloudburst Protocol via custom MC proxy
-  - [ ] Create Protocol Documentation
-  - [ ] Create JS proof of concept via Prismarine-JS
+See individual repos for current progress
